@@ -21,3 +21,16 @@ The objective of this project was to create an annual sales report for 2022, ena
 - Ensured data consistency with respect to data types, formats, and values.
 - Created pivot tables to address the key business questions.
 - Combined pivot tables into a single interactive dashboard with slicers for dynamic analysis.
+## Dashboard
+
+search-ms:displayname=Search%20Results%20in%20Downloads&crumb=location:C%3A%5CUsers%5CHP%5CDownloads\Krishna Store Data
+
+## Project Insight
+- Women accounted for approximately 65% of purchases, making them the dominant customer segment.
+- Maharashtra, Karnataka, and Uttar Pradesh emerged as the top three states contributing to sales.
+- The adult age group (30–49 years) represented nearly 50% of sales, making it the most active segment.
+- Amazon, Flipkart, and Myntra were the leading sales channels.
+- More than 90% of orders were successfully delivered, reflecting strong fulfillment efficiency.
+
+## Final Conclusion:
+To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
