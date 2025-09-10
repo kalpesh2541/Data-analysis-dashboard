@@ -1,6 +1,6 @@
 # Krishna Store Annual Report 2022 – Dashboard Analysis
 ## Project Objective
-The objective of this project was to create an annual sales report for 2022, enabling the Vrinda Store owner to gain a deeper understanding of customer behavior and develop strategies to increase sales in 2023 and 2024.
+The objective of this project was to create an annual sales report for 2022, enabling the Krishna Store owner to gain a deeper understanding of customer behavior and develop strategies to increase sales in 2023 and 2024.
 ## Dataset used
 -<a href="https://github.com/kalpesh2541/Data-analysis-dashboard/blob/main/Krishna%20Store%20Data%20Analysis.xlsx">Dataset</a>
 
@@ -23,7 +23,7 @@ The objective of this project was to create an annual sales report for 2022, ena
 - Combined pivot tables into a single interactive dashboard with slicers for dynamic analysis.
 ## Dashboard
 
-search-ms:displayname=Search%20Results%20in%20Downloads&crumb=location:C%3A%5CUsers%5CHP%5CDownloads\Krishna Store Data
+<img width="1823" height="842" alt="Dashboard" src="https://github.com/user-attachments/assets/d582c2ee-2712-4b14-97ab-01ad72a77519" />
 
 ## Project Insight
 - Women accounted for approximately 65% of purchases, making them the dominant customer segment.
@@ -32,5 +32,5 @@ search-ms:displayname=Search%20Results%20in%20Downloads&crumb=location:C%3A%5CUs
 - Amazon, Flipkart, and Myntra were the leading sales channels.
 - More than 90% of orders were successfully delivered, reflecting strong fulfillment efficiency.
 
-## Final Conclusion:
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+## Conclusion:
+To boost sales, Krishna Store should implement a targeted marketing strategy focusing on women aged 30–49 years residing in Maharashtra, Karnataka, and Uttar Pradesh. This group represents a high-value customer segment due to their purchasing power and lifestyle needs. Tailored digital campaigns, personalized offers, and regional promotions can further strengthen engagement and drive sales growth.
